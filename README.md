@@ -1,2 +1,2 @@
-# payriva.github.io
-PayRiva Software Development - Homepage
+# Paydroit
+A Payment Processing Software by Adroitts
