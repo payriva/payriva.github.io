@@ -1,2 +1,2 @@
-# Paydroit
-A Payment Processing Software by Adroitts
+# PayRiva
+A Payments Processing Software
