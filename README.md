@@ -1,2 +1,2 @@
 # PayRiva
-A Payments Processing Software
+A Software Development Company
